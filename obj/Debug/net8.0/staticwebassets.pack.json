@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Joselyn\\Universidad\\OperacionesEliminacioListasEnlazadas\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\OperacionesEliminacioListasEnlazadas.bundle.scp.css",
+      "PackagePath": "staticwebassets\\OperacionesEliminacioListasEnlazadas.lw1he70tcs.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Joselyn\\Universidad\\OperacionesEliminacioListasEnlazadas\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Joselyn\\Universidad\\OperacionesEliminacioListasEnlazadas\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Joselyn\\Universidad\\OperacionesEliminacioListasEnlazadas\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Joselyn\\Universidad\\OperacionesEliminacioListasEnlazadas\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.OperacionesEliminacioListasEnlazadas.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.OperacionesEliminacioListasEnlazadas.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.OperacionesEliminacioListasEnlazadas.props",
+      "PackagePath": "build\\OperacionesEliminacioListasEnlazadas.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.OperacionesEliminacioListasEnlazadas.props",
+      "PackagePath": "buildMultiTargeting\\OperacionesEliminacioListasEnlazadas.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.OperacionesEliminacioListasEnlazadas.props",
+      "PackagePath": "buildTransitive\\OperacionesEliminacioListasEnlazadas.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
