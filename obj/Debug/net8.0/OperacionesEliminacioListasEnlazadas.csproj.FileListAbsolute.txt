@@ -31,3 +31,37 @@ C:\Joselyn\Universidad\OperacionesEliminacioListasEnlazadas\obj\Debug\net8.0\ref
 C:\Joselyn\Universidad\OperacionesEliminacioListasEnlazadas\obj\Debug\net8.0\OperacionesEliminacioListasEnlazadas.pdb
 C:\Joselyn\Universidad\OperacionesEliminacioListasEnlazadas\obj\Debug\net8.0\OperacionesEliminacioListasEnlazadas.genruntimeconfig.cache
 C:\Joselyn\Universidad\OperacionesEliminacioListasEnlazadas\obj\Debug\net8.0\ref\OperacionesEliminacioListasEnlazadas.dll
+C:\Users\andre\Documents\UNIVERSIDAD\PROGRA III\ListasEnlazadasEliminaci-n\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\andre\Documents\UNIVERSIDAD\PROGRA III\ListasEnlazadasEliminaci-n\bin\Debug\net8.0\appsettings.json
+C:\Users\andre\Documents\UNIVERSIDAD\PROGRA III\ListasEnlazadasEliminaci-n\bin\Debug\net8.0\OperacionesEliminacioListasEnlazadas.staticwebassets.runtime.json
+C:\Users\andre\Documents\UNIVERSIDAD\PROGRA III\ListasEnlazadasEliminaci-n\bin\Debug\net8.0\OperacionesEliminacioListasEnlazadas.staticwebassets.endpoints.json
+C:\Users\andre\Documents\UNIVERSIDAD\PROGRA III\ListasEnlazadasEliminaci-n\bin\Debug\net8.0\OperacionesEliminacioListasEnlazadas.exe
+C:\Users\andre\Documents\UNIVERSIDAD\PROGRA III\ListasEnlazadasEliminaci-n\bin\Debug\net8.0\OperacionesEliminacioListasEnlazadas.deps.json
+C:\Users\andre\Documents\UNIVERSIDAD\PROGRA III\ListasEnlazadasEliminaci-n\bin\Debug\net8.0\OperacionesEliminacioListasEnlazadas.runtimeconfig.json
+C:\Users\andre\Documents\UNIVERSIDAD\PROGRA III\ListasEnlazadasEliminaci-n\bin\Debug\net8.0\OperacionesEliminacioListasEnlazadas.dll
+C:\Users\andre\Documents\UNIVERSIDAD\PROGRA III\ListasEnlazadasEliminaci-n\bin\Debug\net8.0\OperacionesEliminacioListasEnlazadas.pdb
+C:\Users\andre\Documents\UNIVERSIDAD\PROGRA III\ListasEnlazadasEliminaci-n\obj\Debug\net8.0\OperacionesEliminacioListasEnlazadas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Documents\UNIVERSIDAD\PROGRA III\ListasEnlazadasEliminaci-n\obj\Debug\net8.0\OperacionesEliminacioListasEnlazadas.AssemblyInfoInputs.cache
+C:\Users\andre\Documents\UNIVERSIDAD\PROGRA III\ListasEnlazadasEliminaci-n\obj\Debug\net8.0\OperacionesEliminacioListasEnlazadas.AssemblyInfo.cs
+C:\Users\andre\Documents\UNIVERSIDAD\PROGRA III\ListasEnlazadasEliminaci-n\obj\Debug\net8.0\OperacionesEliminacioListasEnlazadas.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\UNIVERSIDAD\PROGRA III\ListasEnlazadasEliminaci-n\obj\Debug\net8.0\OperacionesEliminacioListasEnlazadas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\andre\Documents\UNIVERSIDAD\PROGRA III\ListasEnlazadasEliminaci-n\obj\Debug\net8.0\OperacionesEliminacioListasEnlazadas.sourcelink.json
+C:\Users\andre\Documents\UNIVERSIDAD\PROGRA III\ListasEnlazadasEliminaci-n\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Users\andre\Documents\UNIVERSIDAD\PROGRA III\ListasEnlazadasEliminaci-n\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\Users\andre\Documents\UNIVERSIDAD\PROGRA III\ListasEnlazadasEliminaci-n\obj\Debug\net8.0\scopedcss\bundle\OperacionesEliminacioListasEnlazadas.styles.css
+C:\Users\andre\Documents\UNIVERSIDAD\PROGRA III\ListasEnlazadasEliminaci-n\obj\Debug\net8.0\scopedcss\projectbundle\OperacionesEliminacioListasEnlazadas.bundle.scp.css
+C:\Users\andre\Documents\UNIVERSIDAD\PROGRA III\ListasEnlazadasEliminaci-n\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\andre\Documents\UNIVERSIDAD\PROGRA III\ListasEnlazadasEliminaci-n\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\andre\Documents\UNIVERSIDAD\PROGRA III\ListasEnlazadasEliminaci-n\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\andre\Documents\UNIVERSIDAD\PROGRA III\ListasEnlazadasEliminaci-n\obj\Debug\net8.0\staticwebassets\msbuild.OperacionesEliminacioListasEnlazadas.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\andre\Documents\UNIVERSIDAD\PROGRA III\ListasEnlazadasEliminaci-n\obj\Debug\net8.0\staticwebassets\msbuild.OperacionesEliminacioListasEnlazadas.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\andre\Documents\UNIVERSIDAD\PROGRA III\ListasEnlazadasEliminaci-n\obj\Debug\net8.0\staticwebassets\msbuild.build.OperacionesEliminacioListasEnlazadas.props
+C:\Users\andre\Documents\UNIVERSIDAD\PROGRA III\ListasEnlazadasEliminaci-n\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.OperacionesEliminacioListasEnlazadas.props
+C:\Users\andre\Documents\UNIVERSIDAD\PROGRA III\ListasEnlazadasEliminaci-n\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.OperacionesEliminacioListasEnlazadas.props
+C:\Users\andre\Documents\UNIVERSIDAD\PROGRA III\ListasEnlazadasEliminaci-n\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\andre\Documents\UNIVERSIDAD\PROGRA III\ListasEnlazadasEliminaci-n\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\andre\Documents\UNIVERSIDAD\PROGRA III\ListasEnlazadasEliminaci-n\obj\Debug\net8.0\OperacionesEliminacioListasEnlazadas.dll
+C:\Users\andre\Documents\UNIVERSIDAD\PROGRA III\ListasEnlazadasEliminaci-n\obj\Debug\net8.0\refint\OperacionesEliminacioListasEnlazadas.dll
+C:\Users\andre\Documents\UNIVERSIDAD\PROGRA III\ListasEnlazadasEliminaci-n\obj\Debug\net8.0\OperacionesEliminacioListasEnlazadas.pdb
+C:\Users\andre\Documents\UNIVERSIDAD\PROGRA III\ListasEnlazadasEliminaci-n\obj\Debug\net8.0\OperacionesEliminacioListasEnlazadas.genruntimeconfig.cache
+C:\Users\andre\Documents\UNIVERSIDAD\PROGRA III\ListasEnlazadasEliminaci-n\obj\Debug\net8.0\ref\OperacionesEliminacioListasEnlazadas.dll

@@ -1,0 +1,111 @@
+﻿@page "/"
+@using OperacionesEliminacioListasEnlazadas.Components.Services
+
+@rendermode InteractiveServer
+
+<div class="container">
+    <div class="row">
+        <div class="col-4">
+            <h5>Nombre del dato a ingresar</h5>
+            <input type="number" name="name" class="form-control" @bind-value="@(id)" placeholder="ID" />
+            <input type="text" name="name" class="form-control mt-2" @bind-value="@(nombre)" placeholder="Nombre de la Persona" />
+            <hr/>
+            <button type="button" class="mt-2 btn btn-primary" @onclick="AgregarInicio">Agregar la Inicio</button>
+            <hr />
+            <h5>Eliminar por Dato</h5>
+            <input type="number" name="name" class="mt-3 form-control" @bind-value="@(idBusqueda)" placeholder="ID Persona" />
+            <button type="button" class="mt-2 btn btn-secondary" @onclick="eliminarDespuesDato">Eliminar Despues</button>
+            <button type="button" class="mt-2 btn btn-danger" @onclick="eliminarAntesDato">Eliminar Antes</button>
+            <button type="button" class="mt-2 btn btn-info" @onclick="eliminarDato">Eliminar Dato</button>
+            <hr/>
+            <h5>Eliminar por Posicion</h5>
+            <input type="text" name="name" class="mt-3 form-control" @bind-value="@(posicion)" placeholder="Dato" />
+            <button type="button" class="mt-2 btn btn-secondary" @onclick="eliminarDespuesPosicion">Eliminar Despues</button>
+            <button type="button" class="mt-2 btn btn-danger" @onclick="eliminarAntesPosicion">Eliminar Antes</button>
+            <button type="button" class="mt-2 btn btn-info" @onclick="eliminarPosicion">Eliminar Posicion</button>
+            <hr/>
+            <h5>Ordenar</h5>
+            <button type="button" class="mt-2 btn btn-info" @onclick="ordenamiento">Ordenar Lista</button>
+            <hr />
+            <div class="mt-3 alert alert-secondary" role="alert">
+                <strong>@(resultadoLista)</strong>
+            </div>
+        </div>
+        <div class="col-8">
+            <div class="card">
+                <div class="card-header bg-warning text-center">
+                    <strong>Elmentos de la Lista</strong>
+                </div>
+                <div class="card-body">
+                    <ul class="list-group">
+                        @foreach (var item in resultado)
+                        {
+                            <li class="list-group-item">@(item)</li>
+                        }
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+@code {
+    string nombre = "";
+    int id = 0;
+    int idBusqueda = 0;
+    string[] resultado = new string[0];
+    string resultadoLista = "";
+    int posicion = 0;
+    ListaEnlzada lista = new ListaEnlzada();
+
+    void AgregarInicio()
+    {
+
+        resultadoLista = lista.AgregarNodoAlInicio(new Persona(id, nombre));
+        resultado = lista.RecorridoRecursivo(lista.PrimerNodo, 1).Split('|');
+    }
+
+    void eliminarAntesDato()
+    {
+        resultadoLista = lista.EliminarAntesX(idBusqueda);
+        resultado = lista.RecorridoRecursivo(lista.PrimerNodo, 1).Split('|');
+    }
+
+    void eliminarDespuesDato()
+    {
+        resultadoLista = lista.EliminarDespuesX(idBusqueda);
+        resultado = lista.RecorridoRecursivo(lista.PrimerNodo, 1).Split('|');
+    }
+
+    void eliminarDato()
+    {
+        resultadoLista = lista.EliminarDato(idBusqueda);
+        resultado = lista.RecorridoRecursivo(lista.PrimerNodo, 1).Split('|');
+    }
+
+    void eliminarAntesPosicion()
+    {
+        resultadoLista = lista.EliminarAntesPosicion(posicion);
+        resultado = lista.RecorridoRecursivo(lista.PrimerNodo, 1).Split('|');
+    }
+
+    void eliminarDespuesPosicion()
+    {
+        resultadoLista = lista.EliminarDespuesPosicion(posicion);
+        resultado = lista.RecorridoRecursivo(lista.PrimerNodo, 1).Split('|');
+    }
+
+    void eliminarPosicion()
+    {
+        resultadoLista = lista.EliminarPoscision(posicion);
+        resultado = lista.RecorridoRecursivo(lista.PrimerNodo, 1).Split('|');
+    }
+
+    void ordenamiento()
+    {
+        resultadoLista = lista.OrdenarLista();
+        resultado = lista.RecorridoRecursivo(lista.PrimerNodo, 1).Split('|');
+    }
+}
+
