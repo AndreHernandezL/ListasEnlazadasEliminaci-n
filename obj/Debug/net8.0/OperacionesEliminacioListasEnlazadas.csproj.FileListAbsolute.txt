@@ -65,3 +65,33 @@ C:\Users\andre\Documents\UNIVERSIDAD\PROGRA III\ListasEnlazadasEliminaci-n\obj\D
 C:\Users\andre\Documents\UNIVERSIDAD\PROGRA III\ListasEnlazadasEliminaci-n\obj\Debug\net8.0\OperacionesEliminacioListasEnlazadas.pdb
 C:\Users\andre\Documents\UNIVERSIDAD\PROGRA III\ListasEnlazadasEliminaci-n\obj\Debug\net8.0\OperacionesEliminacioListasEnlazadas.genruntimeconfig.cache
 C:\Users\andre\Documents\UNIVERSIDAD\PROGRA III\ListasEnlazadasEliminaci-n\obj\Debug\net8.0\ref\OperacionesEliminacioListasEnlazadas.dll
+C:\LOCAL_DATA\source\ListasEnlazadasEliminaci-n\bin\Debug\net8.0\appsettings.Development.json
+C:\LOCAL_DATA\source\ListasEnlazadasEliminaci-n\bin\Debug\net8.0\appsettings.json
+C:\LOCAL_DATA\source\ListasEnlazadasEliminaci-n\bin\Debug\net8.0\OperacionesEliminacioListasEnlazadas.staticwebassets.runtime.json
+C:\LOCAL_DATA\source\ListasEnlazadasEliminaci-n\bin\Debug\net8.0\OperacionesEliminacioListasEnlazadas.exe
+C:\LOCAL_DATA\source\ListasEnlazadasEliminaci-n\bin\Debug\net8.0\OperacionesEliminacioListasEnlazadas.deps.json
+C:\LOCAL_DATA\source\ListasEnlazadasEliminaci-n\bin\Debug\net8.0\OperacionesEliminacioListasEnlazadas.runtimeconfig.json
+C:\LOCAL_DATA\source\ListasEnlazadasEliminaci-n\bin\Debug\net8.0\OperacionesEliminacioListasEnlazadas.dll
+C:\LOCAL_DATA\source\ListasEnlazadasEliminaci-n\bin\Debug\net8.0\OperacionesEliminacioListasEnlazadas.pdb
+C:\LOCAL_DATA\source\ListasEnlazadasEliminaci-n\obj\Debug\net8.0\OperacionesEliminacioListasEnlazadas.GeneratedMSBuildEditorConfig.editorconfig
+C:\LOCAL_DATA\source\ListasEnlazadasEliminaci-n\obj\Debug\net8.0\OperacionesEliminacioListasEnlazadas.AssemblyInfoInputs.cache
+C:\LOCAL_DATA\source\ListasEnlazadasEliminaci-n\obj\Debug\net8.0\OperacionesEliminacioListasEnlazadas.AssemblyInfo.cs
+C:\LOCAL_DATA\source\ListasEnlazadasEliminaci-n\obj\Debug\net8.0\OperacionesEliminacioListasEnlazadas.csproj.CoreCompileInputs.cache
+C:\LOCAL_DATA\source\ListasEnlazadasEliminaci-n\obj\Debug\net8.0\OperacionesEliminacioListasEnlazadas.MvcApplicationPartsAssemblyInfo.cache
+C:\LOCAL_DATA\source\ListasEnlazadasEliminaci-n\obj\Debug\net8.0\OperacionesEliminacioListasEnlazadas.sourcelink.json
+C:\LOCAL_DATA\source\ListasEnlazadasEliminaci-n\obj\Debug\net8.0\staticwebassets.build.json
+C:\LOCAL_DATA\source\ListasEnlazadasEliminaci-n\obj\Debug\net8.0\staticwebassets.development.json
+C:\LOCAL_DATA\source\ListasEnlazadasEliminaci-n\obj\Debug\net8.0\staticwebassets\msbuild.OperacionesEliminacioListasEnlazadas.Microsoft.AspNetCore.StaticWebAssets.props
+C:\LOCAL_DATA\source\ListasEnlazadasEliminaci-n\obj\Debug\net8.0\staticwebassets\msbuild.build.OperacionesEliminacioListasEnlazadas.props
+C:\LOCAL_DATA\source\ListasEnlazadasEliminaci-n\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.OperacionesEliminacioListasEnlazadas.props
+C:\LOCAL_DATA\source\ListasEnlazadasEliminaci-n\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.OperacionesEliminacioListasEnlazadas.props
+C:\LOCAL_DATA\source\ListasEnlazadasEliminaci-n\obj\Debug\net8.0\staticwebassets.pack.json
+C:\LOCAL_DATA\source\ListasEnlazadasEliminaci-n\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\LOCAL_DATA\source\ListasEnlazadasEliminaci-n\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\LOCAL_DATA\source\ListasEnlazadasEliminaci-n\obj\Debug\net8.0\scopedcss\bundle\OperacionesEliminacioListasEnlazadas.styles.css
+C:\LOCAL_DATA\source\ListasEnlazadasEliminaci-n\obj\Debug\net8.0\scopedcss\projectbundle\OperacionesEliminacioListasEnlazadas.bundle.scp.css
+C:\LOCAL_DATA\source\ListasEnlazadasEliminaci-n\obj\Debug\net8.0\OperacionesEliminacioListasEnlazadas.dll
+C:\LOCAL_DATA\source\ListasEnlazadasEliminaci-n\obj\Debug\net8.0\refint\OperacionesEliminacioListasEnlazadas.dll
+C:\LOCAL_DATA\source\ListasEnlazadasEliminaci-n\obj\Debug\net8.0\OperacionesEliminacioListasEnlazadas.pdb
+C:\LOCAL_DATA\source\ListasEnlazadasEliminaci-n\obj\Debug\net8.0\OperacionesEliminacioListasEnlazadas.genruntimeconfig.cache
+C:\LOCAL_DATA\source\ListasEnlazadasEliminaci-n\obj\Debug\net8.0\ref\OperacionesEliminacioListasEnlazadas.dll

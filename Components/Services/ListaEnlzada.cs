@@ -182,48 +182,44 @@ namespace OperacionesEliminacioListasEnlazadas.Components.Services
         public string EliminarAntesPosicion(int posicion)
         {
             Nodo NodoActual = PrimerNodo;
-            Nodo NodoAnterior = PrimerNodo;
-            bool bandera = false;
-            int contador = 1;
 
-            if (contador == posicion)
+            if (posicion <= TotalNodos && posicion >= 1)
             {
-                return "No se puede eliminar antes de la primera posicion";
-            }
-
-            while (NodoActual.Liga != null)
-            {
-                if (contador != posicion)
+                if (posicion == 1)
                 {
-                    NodoAnterior = NodoActual;
-                    NodoActual = NodoActual.Liga;
+                    return "No se puede eliminar antes de la primera posicion";
                 }
                 else
                 {
-                    bandera = true;
-                    break;
-                }
-                contador++;
-            }
+                    int contador = 1;
+                    posicion--;
 
-            if (bandera)
-            {
-                if (NodoAnterior == PrimerNodo)
-                {
-                    EliminarAlInicio();
-                }
-                else
-                {
-                    Nodo NodoAuxiliar = NodoActual;
-                    NodoAnterior.Liga = NodoActual.Liga;
-                    NodoAuxiliar = null;
-                    TotalNodos--;
+                    if (posicion == 1)
+                    {
+                        EliminarAlInicio();
+                    }
+
+                    while (NodoActual != null)
+                    {
+                        if (contador == posicion - 1)
+                        {
+                            //creamos el nuevo nodo.
+                            Nodo NodoAuxiliar = NodoActual.Liga;
+                            NodoActual.Liga = NodoActual.Liga.Liga;
+                            NodoAuxiliar = null;
+                            TotalNodos--;
+                            break;
+                        }
+
+                        contador++;
+                        NodoActual = NodoActual.Liga;
+                    }
                 }
                 return "Persona eliminado";
             }
             else
             {
-                return $"la posocion {posicion} no fue encontrada";
+                return "La posición ingresada no es valida";
             }
         }
 

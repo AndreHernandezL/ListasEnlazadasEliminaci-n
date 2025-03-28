@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\andre\\Documents\\UNIVERSIDAD\\PROGRA III\\ListasEnlazadasEliminaci-n\\",
+  "WorkspaceRootPath": "C:\\LOCAL_DATA\\source\\ListasEnlazadasEliminaci-n\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{249E2D4C-3BDA-4676-9C48-9BEBC4237E20}|OperacionesEliminacioListasEnlazadas.csproj|c:\\users\\andre\\documents\\universidad\\progra iii\\listasenlazadaseliminaci-n\\components\\services\\listaenlzada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{249E2D4C-3BDA-4676-9C48-9BEBC4237E20}|OperacionesEliminacioListasEnlazadas.csproj|c:\\local_data\\source\\listasenlazadaseliminaci-n\\components\\services\\listaenlzada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{249E2D4C-3BDA-4676-9C48-9BEBC4237E20}|OperacionesEliminacioListasEnlazadas.csproj|solutionrelative:components\\services\\listaenlzada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{249E2D4C-3BDA-4676-9C48-9BEBC4237E20}|OperacionesEliminacioListasEnlazadas.csproj|c:\\users\\andre\\documents\\universidad\\progra iii\\listasenlazadaseliminaci-n\\components\\pages\\listasimples.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{249E2D4C-3BDA-4676-9C48-9BEBC4237E20}|OperacionesEliminacioListasEnlazadas.csproj|c:\\local_data\\source\\listasenlazadaseliminaci-n\\components\\pages\\listasimples.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{249E2D4C-3BDA-4676-9C48-9BEBC4237E20}|OperacionesEliminacioListasEnlazadas.csproj|solutionrelative:components\\pages\\listasimples.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{249E2D4C-3BDA-4676-9C48-9BEBC4237E20}|OperacionesEliminacioListasEnlazadas.csproj|c:\\users\\andre\\documents\\universidad\\progra iii\\listasenlazadaseliminaci-n\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{249E2D4C-3BDA-4676-9C48-9BEBC4237E20}|OperacionesEliminacioListasEnlazadas.csproj|c:\\local_data\\source\\listasenlazadaseliminaci-n\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{249E2D4C-3BDA-4676-9C48-9BEBC4237E20}|OperacionesEliminacioListasEnlazadas.csproj|solutionrelative:components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -28,24 +28,23 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "NavMenu.razor",
-              "DocumentMoniker": "C:\\Users\\andre\\Documents\\UNIVERSIDAD\\PROGRA III\\ListasEnlazadasEliminaci-n\\Components\\Layout\\NavMenu.razor",
+              "DocumentMoniker": "C:\\LOCAL_DATA\\source\\ListasEnlazadasEliminaci-n\\Components\\Layout\\NavMenu.razor",
               "RelativeDocumentMoniker": "Components\\Layout\\NavMenu.razor",
-              "ToolTip": "C:\\Users\\andre\\Documents\\UNIVERSIDAD\\PROGRA III\\ListasEnlazadasEliminaci-n\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\LOCAL_DATA\\source\\ListasEnlazadasEliminaci-n\\Components\\Layout\\NavMenu.razor",
               "RelativeToolTip": "Components\\Layout\\NavMenu.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-28T02:20:29.124Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-28T02:20:29.124Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "ListaSimples.razor",
-              "DocumentMoniker": "C:\\Users\\andre\\Documents\\UNIVERSIDAD\\PROGRA III\\ListasEnlazadasEliminaci-n\\Components\\Pages\\ListaSimples.razor",
+              "DocumentMoniker": "C:\\LOCAL_DATA\\source\\ListasEnlazadasEliminaci-n\\Components\\Pages\\ListaSimples.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\ListaSimples.razor",
-              "ToolTip": "C:\\Users\\andre\\Documents\\UNIVERSIDAD\\PROGRA III\\ListasEnlazadasEliminaci-n\\Components\\Pages\\ListaSimples.razor",
+              "ToolTip": "C:\\LOCAL_DATA\\source\\ListasEnlazadasEliminaci-n\\Components\\Pages\\ListaSimples.razor",
               "RelativeToolTip": "Components\\Pages\\ListaSimples.razor",
-              "ViewState": "AgIAAFEAAAAAAAAAAAAAAFgAAAA9AAAAAAAAAA==",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAAAGwAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-28T00:38:04.169Z",
               "EditorCaption": ""
@@ -54,11 +53,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ListaEnlzada.cs",
-              "DocumentMoniker": "C:\\Users\\andre\\Documents\\UNIVERSIDAD\\PROGRA III\\ListasEnlazadasEliminaci-n\\Components\\Services\\ListaEnlzada.cs",
+              "DocumentMoniker": "C:\\LOCAL_DATA\\source\\ListasEnlazadasEliminaci-n\\Components\\Services\\ListaEnlzada.cs",
               "RelativeDocumentMoniker": "Components\\Services\\ListaEnlzada.cs",
-              "ToolTip": "C:\\Users\\andre\\Documents\\UNIVERSIDAD\\PROGRA III\\ListasEnlazadasEliminaci-n\\Components\\Services\\ListaEnlzada.cs",
+              "ToolTip": "C:\\LOCAL_DATA\\source\\ListasEnlazadasEliminaci-n\\Components\\Services\\ListaEnlzada.cs",
               "RelativeToolTip": "Components\\Services\\ListaEnlzada.cs",
-              "ViewState": "AgIAALoAAAAAAAAAAAAAwM4AAAANAAAAAAAAAA==",
+              "ViewState": "AQIAAIYAAAAAAAAAAAAkwMYAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-28T00:21:08.009Z",
               "EditorCaption": ""

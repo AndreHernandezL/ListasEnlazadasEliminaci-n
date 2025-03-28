@@ -64,48 +64,61 @@
 
         resultadoLista = lista.AgregarNodoAlInicio(new Persona(id, nombre));
         resultado = lista.RecorridoRecursivo(lista.PrimerNodo, 1).Split('|');
+        limpiar();
     }
 
     void eliminarAntesDato()
     {
         resultadoLista = lista.EliminarAntesX(idBusqueda);
         resultado = lista.RecorridoRecursivo(lista.PrimerNodo, 1).Split('|');
+        limpiar();
     }
 
     void eliminarDespuesDato()
     {
         resultadoLista = lista.EliminarDespuesX(idBusqueda);
         resultado = lista.RecorridoRecursivo(lista.PrimerNodo, 1).Split('|');
+        limpiar();
     }
 
     void eliminarDato()
     {
         resultadoLista = lista.EliminarDato(idBusqueda);
         resultado = lista.RecorridoRecursivo(lista.PrimerNodo, 1).Split('|');
+        limpiar();
     }
 
     void eliminarAntesPosicion()
     {
         resultadoLista = lista.EliminarAntesPosicion(posicion);
         resultado = lista.RecorridoRecursivo(lista.PrimerNodo, 1).Split('|');
+        limpiar();
     }
 
     void eliminarDespuesPosicion()
     {
         resultadoLista = lista.EliminarDespuesPosicion(posicion);
         resultado = lista.RecorridoRecursivo(lista.PrimerNodo, 1).Split('|');
+        limpiar();
     }
 
     void eliminarPosicion()
     {
         resultadoLista = lista.EliminarPoscision(posicion);
         resultado = lista.RecorridoRecursivo(lista.PrimerNodo, 1).Split('|');
+        limpiar();
     }
 
     void ordenamiento()
     {
         resultadoLista = lista.OrdenarLista();
         resultado = lista.RecorridoRecursivo(lista.PrimerNodo, 1).Split('|');
+    }
+
+    void limpiar(){
+        nombre = "";
+        id = 0;
+        idBusqueda = 0;
     }
 }
 
