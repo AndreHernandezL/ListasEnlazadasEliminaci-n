@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OperacionesEliminacioListasEnlazadas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+59b1aabb7e20359eeb99ddaf328b9ad48c15587d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6696fcdf91158248baa35867d990822ef32bd160")]
 [assembly: System.Reflection.AssemblyProductAttribute("OperacionesEliminacioListasEnlazadas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OperacionesEliminacioListasEnlazadas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,24 +1,28 @@
 {
   "Files": [
     {
-      "Id": "C:\\LOCAL_DATA\\source\\ListasEnlazadasEliminaci-n\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\OperacionesEliminacioListasEnlazadas.bundle.scp.css",
-      "PackagePath": "staticwebassets\\OperacionesEliminacioListasEnlazadas.bundle.scp.css"
+      "Id": "C:\\Users\\andre\\Documents\\UNIVERSIDAD\\PROGRA III\\ListasEnlazadasEliminaci-n\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\OperacionesEliminacioListasEnlazadas.bundle.scp.css",
+      "PackagePath": "staticwebassets\\OperacionesEliminacioListasEnlazadas.lw1he70tcs.bundle.scp.css"
     },
     {
-      "Id": "C:\\LOCAL_DATA\\source\\ListasEnlazadasEliminaci-n\\wwwroot\\app.css",
+      "Id": "C:\\Users\\andre\\Documents\\UNIVERSIDAD\\PROGRA III\\ListasEnlazadasEliminaci-n\\wwwroot\\app.css",
       "PackagePath": "staticwebassets\\app.css"
     },
     {
-      "Id": "C:\\LOCAL_DATA\\source\\ListasEnlazadasEliminaci-n\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Id": "C:\\Users\\andre\\Documents\\UNIVERSIDAD\\PROGRA III\\ListasEnlazadasEliminaci-n\\wwwroot\\bootstrap\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\LOCAL_DATA\\source\\ListasEnlazadasEliminaci-n\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\andre\\Documents\\UNIVERSIDAD\\PROGRA III\\ListasEnlazadasEliminaci-n\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\LOCAL_DATA\\source\\ListasEnlazadasEliminaci-n\\wwwroot\\favicon.png",
+      "Id": "C:\\Users\\andre\\Documents\\UNIVERSIDAD\\PROGRA III\\ListasEnlazadasEliminaci-n\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.OperacionesEliminacioListasEnlazadas.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.OperacionesEliminacioListasEnlazadas.Microsoft.AspNetCore.StaticWebAssets.props",
